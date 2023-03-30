@@ -1,4 +1,4 @@
-# Secrets Scanner action
+# Secrets Scanner actions
 
 This action scans git repos using awslabs/git-secrets.
 
